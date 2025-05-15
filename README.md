@@ -1,6 +1,3 @@
-LAB09
-
-
 user@Syrex:~$  export GITHUB_TOKEN=Token
 user@Syrex:~$ export GITHUB_USERNAME=Syrex333
 user@Syrex:~$  export PACKAGE_MANAGER=apt
